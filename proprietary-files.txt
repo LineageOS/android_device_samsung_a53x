@@ -8,6 +8,9 @@
 # Audio - Effects - SoundBooster
 vendor/lib64/lib_SoundBooster_ver1100.so
 
+# Audio - Firmware
+vendor/firmware/dax_param.bin
+
 # Audio - Firmware - for SM-A536B
 vendor/firmware/APDV_AUDIO_SLSI.bin:vendor/firmware/SM-A536B/APDV_AUDIO_SLSI.bin
 vendor/firmware/AP_AUDIO_SLSI.bin:vendor/firmware/SM-A536B/AP_AUDIO_SLSI.bin
