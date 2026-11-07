@@ -65,6 +65,14 @@ vendor/firmware/gt9895_a53x.bin
 vendor/firmware/gt9895_a53x.bin:vendor_ramdisk/vendor/firmware/gt9895_a53x.bin
 vendor/firmware/gt9895_a53x.bin:recovery/root/vendor/firmware/gt9895_a53x.bin
 
+# Fingerprint - Dependencies
+vendor/lib64/libbauthserver.so
+vendor/lib64/libbauthtzcommon.so
+vendor/lib64/libegis_fp_normal_sensor_test.so
+vendor/lib64/libgf_in_system_lib.so
+vendor/lib64/libqfp_sensortest.so
+vendor/lib64/libsynaFpSensorTestNwd.so
+
 # Firmware - for SM-A536B
 vendor/firmware/NPU.bin:vendor/firmware/SM-A536B/NPU.bin
 vendor/firmware/mfc_fw.bin:vendor/firmware/SM-A536B/mfc_fw.bin

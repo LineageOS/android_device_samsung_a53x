@@ -64,9 +64,6 @@ module = ExtractUtilsModule(
 )
 
 module.add_proprietary_file('../s5e8825-common/proprietary-files.device.txt')
-module.add_proprietary_file(
-    '../s5e8825-common/products/phone/proprietary-files.device.txt'
-)
 
 if __name__ == '__main__':
     utils = ExtractUtils.device_with_common(
